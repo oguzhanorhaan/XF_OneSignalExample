@@ -1,0 +1,12 @@
+C:\Users\onur\Source\Repos\XF_OneSignalExample\XF_OneSignalExample\XF_OneSignalExample\bin\Debug\netstandard2.0\XF_OneSignalExample.deps.json
+C:\Users\onur\Source\Repos\XF_OneSignalExample\XF_OneSignalExample\XF_OneSignalExample\bin\Debug\netstandard2.0\XF_OneSignalExample.dll
+C:\Users\onur\Source\Repos\XF_OneSignalExample\XF_OneSignalExample\XF_OneSignalExample\bin\Debug\netstandard2.0\XF_OneSignalExample.pdb
+C:\Users\onur\Source\Repos\XF_OneSignalExample\XF_OneSignalExample\XF_OneSignalExample\obj\Debug\netstandard2.0\XF_OneSignalExample.csprojAssemblyReference.cache
+C:\Users\onur\Source\Repos\XF_OneSignalExample\XF_OneSignalExample\XF_OneSignalExample\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\onur\Source\Repos\XF_OneSignalExample\XF_OneSignalExample\XF_OneSignalExample\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\onur\Source\Repos\XF_OneSignalExample\XF_OneSignalExample\XF_OneSignalExample\obj\Debug\netstandard2.0\XF_OneSignalExample.csproj.CoreCompileInputs.cache
+C:\Users\onur\Source\Repos\XF_OneSignalExample\XF_OneSignalExample\XF_OneSignalExample\obj\Debug\netstandard2.0\XF_OneSignalExample.AssemblyInfoInputs.cache
+C:\Users\onur\Source\Repos\XF_OneSignalExample\XF_OneSignalExample\XF_OneSignalExample\obj\Debug\netstandard2.0\XF_OneSignalExample.AssemblyInfo.cs
+C:\Users\onur\Source\Repos\XF_OneSignalExample\XF_OneSignalExample\XF_OneSignalExample\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\onur\Source\Repos\XF_OneSignalExample\XF_OneSignalExample\XF_OneSignalExample\obj\Debug\netstandard2.0\XF_OneSignalExample.dll
+C:\Users\onur\Source\Repos\XF_OneSignalExample\XF_OneSignalExample\XF_OneSignalExample\obj\Debug\netstandard2.0\XF_OneSignalExample.pdb
