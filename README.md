@@ -1,0 +1,2 @@
+# XF_OneSignalExample
+It is a OneSignal usage example in Xamarin.Forms. When notification clicked opening specific page(not mainpage) is a bit complicated in Android but this shows an alternative way of opening a specific page when notification clicked. In iOS opening specific page is not complicated like Android. You can see implementation usage of OneSignal Push Notifications in Xamarin.Forms and opening a specific page when notifcation clicked.
